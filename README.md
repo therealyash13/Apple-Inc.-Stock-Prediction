@@ -16,3 +16,8 @@ After importing the data, engineering the features and pre-processing the datase
 5.	Long-Short Term Memory (LSTM)
 6.	SARIMA
 7.	FB’s Prophet Model
+
+
+### CONCLUSION:
+	Ultimately, Data mining in Artificial Intelligence and Machine Learning have achieved a vital turning point, augmenting and extending practically any technology-enabled service, product, or application. Artificial intelligence entails a boost in our knowledge to fix issues and come up with new ideas. Unsupervised learning algorithms that we have used are analogous to human intelligence in that the model learns gradually before calculating the output, and it is highly useful for detecting patterns in the data that are tough to locate using traditional approaches.  Because data mining is a component of big data analytics, we participated in this module as a data miner to evaluate and understand the supplied data. Data mining is used to uncover previously unseen patterns and correlations in a dataset. To summarize, in this project we created various tree based and time series-based machine learning models to work on a dataset by cleaning, analysing, engineering the features, visualizing and building models using different machine learning models, predicting the outcome, and tuning its parameters for better performance and regularizing the parameters.
+	As a result, we looked into future Apple stock closing price predictions to see if we should invest in the stock. We arrived at the conclusion that investors can invest in Apple's stock market because of the high closing price. 
